@@ -2,7 +2,7 @@
   "name": "route-display",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://gutmalina.github.io/route-display/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
