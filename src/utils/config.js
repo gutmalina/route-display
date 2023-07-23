@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://router.project-osrm.org/route/v1/driving/';
+export const BASE_URL = 'https://router.project-osrm.org/route/v1/driving/';
