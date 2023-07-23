@@ -1,7 +1,7 @@
 # Тестовое задание на вакансию React-разработчика компании ILS
 
 <p padding="0" align="center">~~~~~~~~~~</p>
-<a  href="https://gutmalina.github.io/list-posts/" target="_blank" align="center"><img src="./readme/videogift.gif" width="100%" alt="Демо"></a>
+<a  href="https://gutmalina.github.io/route-display/" target="_blank" align="center"><img src="./readme/videogift.gif" width="100%" alt="Демо"></a>
 <p padding="0" align="center">~~~~~~~~~~</p>
 
 ### Стэк:
@@ -36,5 +36,5 @@
 Решение требуется предоставить в виде исходного кода, готового для развертывания на веб-сервере (приложить файловый архив или ссылку на github, например). Приложение нужно писать чисто и аккуратно, используя известные паттерны, сразу с рефакторингом - так, будто вы пишите production-приложение.
 
 ### Ссылки:
-* :mag_right: [Открыть проект](https://gutmalina.github.io/list-posts/)
+* :mag_right: [Открыть проект](https://gutmalina.github.io/route-display/)
 
