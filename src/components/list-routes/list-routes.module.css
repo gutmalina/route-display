@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.table {
+  max-width: 50%;
+}
+
+.row {
+  cursor: pointer;
+}
+
+.row_active {
+  color: rgb(22, 119, 255);
+}
+
+.point {
+  display: flex;
+  flex-direction: column;
+}
