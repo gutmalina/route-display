@@ -7,7 +7,7 @@ import {
   Polyline,
   useMap,
 } from "react-leaflet";
-import { getWaypointsFetch } from "../../store/routes";
+import { getWaypointsFetch } from "../../services/routes";
 import { useDispatch, useSelector } from "react-redux";
 import { latLngBounds } from "leaflet";
 import { useCallback, useEffect } from "react";

@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
 import createSagaMiddleware from "redux-saga";
-import routesReducer from "../store/routes";
+import routesReducer from "../services/routes";
 import waypointsSaga from "./sagas/sagas";
 
 const saga = createSagaMiddleware();

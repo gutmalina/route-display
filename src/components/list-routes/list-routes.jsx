@@ -1,7 +1,7 @@
 import styles from "./list-routes.module.css";
 import { Table } from "antd";
 import { useDispatch } from "react-redux";
-import { addRoute } from "../../store/routes";
+import { addRoute } from "../../services/routes";
 import { useState } from "react";
 import { dataSourceRow } from "../../utils/constants";
 
